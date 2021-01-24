@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 Front-end developer in training. Passionate about precise and meaningful web pages. Also very interested in Literature, Culture and Education.
 
 - 🔭 I’m into HTML5, CSS3, JavaScript, SQL
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=criistianrod&theme=tokyonight&layout=compact)
 
 - 🌱 I’m currently learning React, Python and Webpack
