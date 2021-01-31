@@ -4,7 +4,7 @@
 **CriistianRod/criistianrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-Full-stack developer in training. Passionate about precise and meaningful web pages. Bringing Tech and Culture together
+Full-stack developer in training. Passionate about precise and meaningful web pages. Bringing Tech and Culture together.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=criistianrod&theme=react&layout=compact)
 
