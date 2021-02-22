@@ -1,4 +1,6 @@
 <h1> Cristian Rodríguez </h1>
+
+
 ### Hi there 👋 I'm Cristian
 
 Full-stack developer in training. Passionate about precise and meaningful web pages. Bringing Tech and Culture together.
