@@ -1,9 +1,5 @@
 ### Hi there 👋 I'm Cristian
 
-<!--
-**CriistianRod/criistianrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
 Full-stack developer in training. Passionate about precise and meaningful web pages. Bringing Tech and Culture together.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=criistianrod&theme=react&layout=compact)
@@ -15,6 +11,12 @@ Full-stack developer in training. Passionate about precise and meaningful web pa
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=criistianrod&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--
+**CriistianRod/criistianrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+-->
 
 <!--
 - 🤔 I’m looking for help with ...
