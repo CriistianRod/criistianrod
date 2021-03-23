@@ -7,7 +7,7 @@ Full-stack developer in training. Passionate about precise and meaningful web pa
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=criistianrod&theme=react&layout=compact)
 
-- 🔭 As you can see, I’m into HTML5, CSS3, JavaScript and SQL, mainly
+- 🔭 As you can see, I’m into HTML5, CSS3, JavaScript, Python and some SQL, mainly
 - 🌱 I’m currently learning React, Python and Webpack
 - 👯 I’m looking to collaborate on any open source project
 - 📫 How to reach me: cristian.frontend.dev@gmail.com or here [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-rodr%C3%ADguez-713bb3173/)
