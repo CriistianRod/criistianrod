@@ -3,7 +3,9 @@
 
 ### Hi there 👋 I'm Cristian
 
-Full-End developer. Passionate about precise and meaningful web pages. Bringing Tech and Culture together.
+Front-End developer from Bogotá, Colombia.
+I'm passionate about precise and meaningful web pages.
+I stand to bring Tech and Culture together.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=criistianrod&theme=react&layout=compact)
 
