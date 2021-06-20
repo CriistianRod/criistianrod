@@ -12,7 +12,7 @@ I stand to bring Tech and Culture together.
 - 🔭 As you can see, I’m into Javascript, React, HTML5, CSS3, mainly; and little bit of TypeScript, Python, SQL
 - 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate on any open source project
-- 📫 You can reach me in cristian.frontend.dev@gmail.com or here [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-rodr%C3%ADguez-713bb3173/)
+- 📫 You can reach me in cristian.frontend.dev@gmail.com or here  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-rodr%C3%ADguez-713bb3173/)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=criistianrod&theme=react)](https://github.com/anuraghazra/github-readme-stats)
