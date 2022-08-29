@@ -3,9 +3,8 @@
 
 ### Hi there 👋 I'm Cristian
 
-Front-End developer from Bogotá, Colombia.
-I'm passionate about precise and meaningful web pages.
-I stand to bring Tech and Culture together.
+Front End Developer with 2+ years of experience leading high-quality UI development in various industries and teams using Scrum. Proficient with React, JavaScript, Html, Sass, and more.
+Becoming a supportive leader. Game changer. Continuously growing, exploring, learning.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=criistianrod&theme=react&layout=compact)
 
