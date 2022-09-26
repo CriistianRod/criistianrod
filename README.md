@@ -3,8 +3,10 @@
 
 ### Hi there 👋 I'm Cristian
 
-Front End Developer with 2+ years of experience leading high-quality UI development in various industries and teams using Scrum. Proficient with React, JavaScript, Html, Sass, and more.
-Becoming a supportive leader. Game changer. Continuously growing, exploring, learning.
+Frontend Developer with 2+ years of experience leading high-quality UI development in various industries, projects, and teams. Creating in ReactJS, JavaScript, NextJS, Jest, HTML, CSS, Sass, and more. Scrum lover.
+Adaptable, and creative game changer. Becoming a supportive leader. Continuously growing, exploring, learning.
+
+Math & Python lover. Evolving into Data Scientist. Passionate about literature and music.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=criistianrod&theme=react&layout=compact)
 
