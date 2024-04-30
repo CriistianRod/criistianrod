@@ -3,7 +3,7 @@
 
 ### Hi there 👋 I'm Cristian
 
-Frontend Developer with 2+ years of experience leading high-quality UI development in various industries, projects, and teams. Creating in ReactJS, JavaScript, NextJS, Jest, HTML, CSS, Sass, and more. Scrum lover.
+Frontend Developer with 4+ years of experience leading high-quality UI development in various industries, projects, and teams. Creating in ReactJS, JavaScript, NextJS, Jest, HTML, CSS, Sass, and more. Scrum lover.
 Adaptable, and creative game changer. Becoming a supportive leader. Continuously growing, exploring, learning.
 
 Math & Python lover. Evolving into Data Scientist. Passionate about literature and music.
